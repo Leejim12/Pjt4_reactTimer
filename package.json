@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://Leejim12.github.io/pjt4_reactTimer/",
+  "homepage": "https://leejim12.github.io/Pjt4_reactTimer/",
   "eslintConfig": {
     "extends": [
       "react-app",
